@@ -32,10 +32,12 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
     </div>
     <br>
     <!-- Database -->
@@ -47,8 +49,20 @@
     <br>
     <!-- Server -->
     <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+        <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+    </div>
+    <br>
     <!-- Framework -->
     <!-- Version Control -->
+    <p><strong>Version Control</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </div>
     <br>
 </div>
 
