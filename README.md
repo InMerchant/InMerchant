@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=header&text=Welcome%20to%20InMerchant's%20GitHub%20👋&animation=twinkling&&fontSize=45&fontAlignY=80)
 
 ---
-<h4>🏆수상이력🏆</h4>
+<h3>🏆수상이력🏆</h3>
 <div>(2023년) 충청남도 민간 데이터 활용 아이디어 공모전 수상</div>
 <div>(2023년) (인문사회 융합인재양성사업단 주관) 기술+인문 융합프로젝트 경진대회 수상 (최우수상)</div>
 <br>
