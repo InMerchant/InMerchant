@@ -5,7 +5,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:advance7749@naver.com">
-        <img src="https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/o/sGFzzbsf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
