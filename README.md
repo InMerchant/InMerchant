@@ -7,7 +7,7 @@
     <a href="mailto:advance7749@naver.com">
         <img src="https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href="https://open.kakao.com/o/sYSsdKYf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div><br>
