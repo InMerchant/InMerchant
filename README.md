@@ -44,4 +44,6 @@
     <br>
 </div>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InMerchant)](https://github.com/InMerchant/github-readme-stats)
