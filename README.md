@@ -92,5 +92,3 @@
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InMerchant&layout=compact)](https://github.com/InMerchant/github-readme-stats)
