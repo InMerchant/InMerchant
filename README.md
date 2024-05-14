@@ -74,6 +74,12 @@
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     </div>
     <br>
+    <!-- Build Control -->
+    <p><strong>Build Control</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    </div>
+    <br>
 </div>
 
 ---
