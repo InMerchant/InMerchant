@@ -85,14 +85,12 @@
         <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     </div>
     <br>
-    
     <!-- CI/CD tool -->
-    <p><strong>CI/CD tool</strong></p>
+    <p><strong>"CI/CD tool"</strong></p>
     <div>
         <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     </div>
     <br>
-    
-</div>
+  </div>
 
 ---
