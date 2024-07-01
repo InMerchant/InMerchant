@@ -2,8 +2,9 @@
 
 ---
 <h3>🏆수상이력🏆</h3>
-<div>(2023년) 충청남도 민간 데이터 활용 아이디어 공모전 수상</div>
-<div>(2023년) (인문사회 융합인재양성사업단 주관) 기술+인문 융합프로젝트 경진대회 수상 (최우수상)</div>
+<div>(2024년) IoT빅데이터응용교육과정 성과물 경진대회 수상 (최우수상)</div>
+<div>(2023년) 충청남도 민간 데이터 활용 아이디어 공모전 수상 (입상)</div>
+<div>(2023년) 기술+인문 융합프로젝트 경진대회 수상 (최우수상)</div>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInMerchant&count_bg=%231FCC63&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -16,7 +17,9 @@
     <a href="https://open.kakao.com/o/sYSsdKYf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-</div><br>
+</div>
+
+<br>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -83,11 +86,11 @@
     <br>
     
     <!-- CI/CD tool -->
-    <!-- <p><strong>CI/CD tool</strong></p> -->
-    <!-- <div> -->
-    <!--    <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> -->
-    <!-- </div> -->
-    <!-- <br> -->
+    <p><strong>CI/CD tool</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    </div>
+    <br>
     
 </div>
 
