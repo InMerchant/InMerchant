@@ -50,6 +50,7 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
         <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=JPA&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </div>
     <br>    
     <!-- Development Tools -->
