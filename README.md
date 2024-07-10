@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=header&text=Welcome%20to%20InMerchant's%20GitHub%20👋&animation=twinkling&&fontSize=45&fontAlignY=80)
 
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInMerchant&count_bg=%231FCC63&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
+<br>
 
 <h3>👋 About Me </h3>
 <div>• 주로 JAVA와 Python을 사용한 웹 개발을 하고 있으며, Flask와 SpringBoot같은 프레임워크를 활용한 서비스 구현을 한 경험이 있음. </div>
@@ -13,8 +15,6 @@
 <div>(2023년) 충청남도 민간 데이터 활용 아이디어 공모전 수상 (입상)</div>
 <div>(2023년) 기술+인문 융합프로젝트 경진대회 수상 (최우수상)</div>
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInMerchant&count_bg=%231FCC63&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
