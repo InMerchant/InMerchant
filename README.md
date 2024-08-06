@@ -104,5 +104,11 @@
     </div>
     <br>
   </div>
+    <!-- Cloud Service -->
+    <p><strong>Cloud Service</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/OracleCloud-F80000?style=for-the-badge&logo=OracleCloud&logoColor=white">
+    </div>
+    <br>
 
 ---
